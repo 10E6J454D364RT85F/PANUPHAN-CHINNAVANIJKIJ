@@ -1,0 +1,36 @@
+# This is a basic workflow to help you get started with Actions
+
+name:PANUPHAN CHINNAVANIJKIJ:EKNARONG CHARONGWONG CI
+
+# Controls when the workflow will run
+on: 454148X5DE
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:884
+    branches: [ "main" ]
+  pull_request:847153XPD
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch: 1iPD454448435ipxyd PCD 485XY CID 44355411
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:President Eorope
+  # This workflow contains a single job called "build"
+  build:#4544874135IDEC35XYC
+    # The type of runner that the job will run on
+    runs-on: 494 ubuntu-latest 6482
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps: 1472xyp
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: 145411741-9 actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script 454487414923
+        run: echo Hello, world! 1584
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script 544PD
+        run: |229
+          echo Add other actions to build,16494944i
+          echo test, and deploy your project.
