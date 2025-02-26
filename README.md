@@ -7,6 +7,15 @@ User 829IDZ 10E6J454D364RT85F
 
 Panuphan Chinnavanijkij
 :EKNARONG Nōnnì CHAROENWONG 149wi
+
+LAT13.900337
+LON100.718417
+
+40/368 Soi 21 
+
+KC Ramintra Village Soi 8, 
+Sam Wa West Office,Khlong Sam Wa District 
+Bangkok 10510 Thailand
  
 CiViD40654 CD64
 [XY4ID5YIP] PXYID5651913545
